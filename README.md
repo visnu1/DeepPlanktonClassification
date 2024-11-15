@@ -1,7 +1,5 @@
 # DeepPlanktonClassification
 
-# Classification Project
-
 This project performs image classification using deep learning techniques in PyTorch. The notebook includes data loading, preprocessing, model training, and evaluation.
 
 ## Project Overview
